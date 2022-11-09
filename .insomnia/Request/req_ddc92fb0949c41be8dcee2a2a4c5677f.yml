@@ -1,10 +1,10 @@
-_id: req_f8fe8c2094154ba4addb6db5389a733e
+_id: req_ddc92fb0949c41be8dcee2a2a4c5677f
 type: Request
 parentId: fld_76bf7644347044a2a306b658eeba3b70
-modified: 1667966488783
-created: 1667966200051
-url: http://localhost:8000/api/banks
-name: Registro
+modified: 1667966495519
+created: 1667966485048
+url: http://localhost:8000/api/banks/1
+name: Modificar
 description: ""
 method: POST
 body:
@@ -37,7 +37,7 @@ headers:
 authentication:
   type: bearer
   token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwMDAvYXBpL2xvZ2luIiwiaWF0IjoxNjY3OTY0MzA1LCJleHAiOjE2Njc5Njc5MDUsIm5iZiI6MTY2Nzk2NDMwNSwianRpIjoiWmxabWVwWDhGRndncTdEVyIsInN1YiI6IjEiLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3In0.5MJ3DeFiMS9k_Y3bjPY1AwXp91QBZPofqWoIVQQt9NU
-metaSortKey: -1667965164766
+metaSortKey: -1667964808476.25
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
