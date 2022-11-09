@@ -1,0 +1,75 @@
+_id: req_dc7b245561064b11b0687e708670e8f0
+type: Request
+parentId: fld_76bf7644347044a2a306b658eeba3b70
+modified: 1667966281087
+created: 1667966200071
+url: http://localhost:8000/api/banks/2
+name: Modificar
+description: ""
+method: POST
+body:
+  mimeType: multipart/form-data
+  params:
+    - id: pair_90f7cfde9c04468d97ab9bb3de59c1c0
+      name: name
+      value: Usuario
+      description: ""
+    - id: pair_ed5add6b621543069cc544b50db10f3a
+      name: user_name
+      value: usuariod
+      description: ""
+    - id: pair_100d033066184f05884e6d98f987c49a
+      name: email
+      value: usuariosdfs@correo.com
+      description: ""
+    - id: pair_987885c8964c4b6f88207178fce2951d
+      name: nro_document
+      value: "25646293"
+      description: ""
+    - id: pair_33cc78560b474f438fff94d931ebb680
+      name: phone
+      value: "+581546456464"
+      description: ""
+    - id: pair_1f0ab25e22884ec7af8e9129928598de
+      name: country
+      value: Venezuela
+      description: ""
+    - id: pair_16374d6972d44a2e80d348391d7de4de
+      name: city
+      value: Aroa
+      description: ""
+    - id: pair_5af4540b805a4f0b84f4bdc639c7de07
+      name: observation
+      value: nada
+      description: ""
+    - id: pair_d009c3f8fe9c4f8cb11cfc56e92a8e2f
+      name: url_img_document
+      value: ""
+      description: ""
+    - id: pair_cdca334770b74239aa1764e9f16cb259
+      name: url_avatar
+      value: ""
+      description: ""
+    - id: pair_d26049485f6840388d7a206566b8dc0d
+      name: password
+      value: 123456**
+      description: ""
+    - id: pair_a03f90cd126a45919b18ac00cc7cdb55
+      name: password_confirmation
+      value: 123456**
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+authentication:
+  type: bearer
+  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwMDAvYXBpL2xvZ2luIiwiaWF0IjoxNjY3OTY0MzA1LCJleHAiOjE2Njc5Njc5MDUsIm5iZiI6MTY2Nzk2NDMwNSwianRpIjoiWmxabWVwWDhGRndncTdEVyIsInN1YiI6IjEiLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3In0.5MJ3DeFiMS9k_Y3bjPY1AwXp91QBZPofqWoIVQQt9NU
+metaSortKey: -1667964452186.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

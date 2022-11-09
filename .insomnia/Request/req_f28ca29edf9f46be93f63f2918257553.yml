@@ -1,0 +1,23 @@
+_id: req_f28ca29edf9f46be93f63f2918257553
+type: Request
+parentId: fld_6a2de045cd584d889b1a6d056b8a8cb0
+modified: 1667965532078
+created: 1667965497379
+url: http://localhost:8000/api/users/1
+name: Consulta usuario por id
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: bearer
+  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwMDAvYXBpL2xvZ2luIiwiaWF0IjoxNjY3OTY0MzA1LCJleHAiOjE2Njc5Njc5MDUsIm5iZiI6MTY2Nzk2NDMwNSwianRpIjoiWmxabWVwWDhGRndncTdEVyIsInN1YiI6IjEiLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3In0.5MJ3DeFiMS9k_Y3bjPY1AwXp91QBZPofqWoIVQQt9NU
+metaSortKey: -1667965497379
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,17 +1,25 @@
 _id: req_4932e254486244b7a3429be41fcc258a
 type: Request
 parentId: wrk_7ca15425654e40a7b7a281ecce815559
-modified: 1667963983037
+modified: 1667966218042
 created: 1667963739607
 url: http://localhost:8000/api/login
 name: Login
 description: ""
-method: GET
-body: {}
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"email" : "arevaloarcadio.96@gmail.com",
+    	"password" : "123456**"
+    }
 parameters: []
-headers: []
+headers:
+  - name: Content-Type
+    value: application/json
 authentication: {}
-metaSortKey: -1667963739607
+metaSortKey: -1667963739507
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
