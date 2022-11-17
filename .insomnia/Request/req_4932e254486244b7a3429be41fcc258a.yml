@@ -1,7 +1,7 @@
 _id: req_4932e254486244b7a3429be41fcc258a
 type: Request
 parentId: wrk_7ca15425654e40a7b7a281ecce815559
-modified: 1667966218042
+modified: 1668625324425
 created: 1667963739607
 url: http://localhost:8000/api/login
 name: Login
@@ -11,8 +11,8 @@ body:
   mimeType: application/json
   text: |-
     {
-    	"email" : "arevaloarcadio.96@gmail.com",
-    	"password" : "123456**"
+    	"email" : "dosma@gmail.com",
+    	"password" : "0"
     }
 parameters: []
 headers:

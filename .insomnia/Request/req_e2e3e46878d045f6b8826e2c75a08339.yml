@@ -1,7 +1,7 @@
 _id: req_e2e3e46878d045f6b8826e2c75a08339
 type: Request
 parentId: fld_6a2de045cd584d889b1a6d056b8a8cb0
-modified: 1667965526343
+modified: 1668017787006
 created: 1667965447849
 url: http://localhost:8000/api/users
 name: Consultar Usuarios paginado
@@ -12,7 +12,7 @@ parameters: []
 headers: []
 authentication:
   type: bearer
-  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwMDAvYXBpL2xvZ2luIiwiaWF0IjoxNjY3OTY0MzA1LCJleHAiOjE2Njc5Njc5MDUsIm5iZiI6MTY2Nzk2NDMwNSwianRpIjoiWmxabWVwWDhGRndncTdEVyIsInN1YiI6IjEiLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3In0.5MJ3DeFiMS9k_Y3bjPY1AwXp91QBZPofqWoIVQQt9NU
+  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwMDAvYXBpL2xvZ2luIiwiaWF0IjoxNjY4MDE3Nzc1LCJleHAiOjE2NjgwMjEzNzUsIm5iZiI6MTY2ODAxNzc3NSwianRpIjoiU0NFV2I5bWZsb1oyZHBzVyIsInN1YiI6IjMiLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3In0.cJ9xNOvKBuToEdzndTUUJiHpEdGnqVk0EO7y2_6hXIw
 metaSortKey: -1667965447849
 isPrivate: false
 settingStoreCookies: true

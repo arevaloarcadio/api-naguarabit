@@ -1,10 +1,10 @@
 _id: req_329768e37d6e414390dd5e0882cb5e5e
 type: Request
 parentId: fld_76bf7644347044a2a306b658eeba3b70
-modified: 1667966273878
+modified: 1668286362111
 created: 1667966200065
-url: http://localhost:8000/api/banks/1
-name: Consulta por id
+url: http://localhost:8000/api/banks/PAR/byCountry
+name: Consulta por Pais
 description: ""
 method: GET
 body: {}

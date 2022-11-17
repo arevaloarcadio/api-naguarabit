@@ -1,10 +1,10 @@
-_id: req_5902dc1e393e49d2968b663497212076
+_id: req_5c877df78ac846f9ae81781e1f32fb9f
 type: Request
-parentId: fld_76bf7644347044a2a306b658eeba3b70
-modified: 1668086831284
-created: 1667966200058
-url: http://localhost:8000/api/banks
-name: Consultar todos
+parentId: fld_94d2efb008bb4939be8e8ac07bb8197f
+modified: 1668087614474
+created: 1668087535593
+url: http://localhost:8000/api/countries/
+name: Consultar Pais
 description: ""
 method: GET
 body: {}
@@ -13,7 +13,7 @@ headers: []
 authentication:
   type: bearer
   token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwMDAvYXBpL2xvZ2luIiwiaWF0IjoxNjY3OTY0MzA1LCJleHAiOjE2Njc5Njc5MDUsIm5iZiI6MTY2Nzk2NDMwNSwianRpIjoiWmxabWVwWDhGRndncTdEVyIsInN1YiI6IjEiLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3In0.5MJ3DeFiMS9k_Y3bjPY1AwXp91QBZPofqWoIVQQt9NU
-metaSortKey: -1667965447849
+metaSortKey: -1668087526468
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
