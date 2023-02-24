@@ -1,0 +1,23 @@
+_id: req_5902dc1e393e49d2968b663497212076
+type: Request
+parentId: fld_76bf7644347044a2a306b658eeba3b70
+modified: 1675725039732
+created: 1667966200058
+url: https://naguarabit.com/app/api/public/api/banks
+name: Consultar todos
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: bearer
+  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwMDAvYXBpL2xvZ2luIiwiaWF0IjoxNjY3OTY0MzA1LCJleHAiOjE2Njc5Njc5MDUsIm5iZiI6MTY2Nzk2NDMwNSwianRpIjoiWmxabWVwWDhGRndncTdEVyIsInN1YiI6IjEiLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3In0.5MJ3DeFiMS9k_Y3bjPY1AwXp91QBZPofqWoIVQQt9NU
+metaSortKey: -1667965447849
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

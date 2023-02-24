@@ -1,0 +1,21 @@
+_id: req_1143394117494582ac12a6a0a1653c3b
+type: Request
+parentId: fld_3b19be06272146659cb104dc918ba805
+modified: 1677275253854
+created: 1668626123987
+url: https://naguarabit.com/app/api/transactions/rates/PYG
+name: Obtener tasa por el id de la moneda
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668626123987
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

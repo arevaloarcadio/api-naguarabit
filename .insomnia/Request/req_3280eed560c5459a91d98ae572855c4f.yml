@@ -1,0 +1,21 @@
+_id: req_3280eed560c5459a91d98ae572855c4f
+type: Request
+parentId: fld_3b19be06272146659cb104dc918ba805
+modified: 1677275245251
+created: 1677262965352
+url: https://naguarabit.com/app/api/transactions/attachment
+name: Enviar comprobante
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1677262965352
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

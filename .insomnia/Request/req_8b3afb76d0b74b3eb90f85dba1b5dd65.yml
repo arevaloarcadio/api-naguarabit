@@ -1,0 +1,21 @@
+_id: req_8b3afb76d0b74b3eb90f85dba1b5dd65
+type: Request
+parentId: fld_76bf7644347044a2a306b658eeba3b70
+modified: 1675725018970
+created: 1668625291163
+url: https://naguarabit.com/app/api/public/api/banks/BFAM
+name: Consulta por codigo
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668625291163
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

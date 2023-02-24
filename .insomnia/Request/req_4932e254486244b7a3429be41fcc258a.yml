@@ -1,0 +1,29 @@
+_id: req_4932e254486244b7a3429be41fcc258a
+type: Request
+parentId: wrk_7ca15425654e40a7b7a281ecce815559
+modified: 1675724637303
+created: 1667963739607
+url: https://naguarabit.com/app/api/public/api/login
+name: Login
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"email" : "dosma@gmail.com",
+    	"password" : "0"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1667963739507
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

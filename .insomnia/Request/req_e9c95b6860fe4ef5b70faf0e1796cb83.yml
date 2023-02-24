@@ -1,0 +1,65 @@
+_id: req_e9c95b6860fe4ef5b70faf0e1796cb83
+type: Request
+parentId: fld_3b19be06272146659cb104dc918ba805
+modified: 1677275261675
+created: 1668286444985
+url: https://naguarabit.com/app/api/transactions
+name: Registra solicitud
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: >-
+    {
+        "id": "",
+        "nombre_pais1": "Paraguay",
+        "cod_pais1": "PAR",
+        "cod_moneda1": "PYG",
+        "simbolo_moneda1": "Gs.",
+        "nombre_plural_moneda1": "Guaraníes",
+        "monto1": 7786,
+        "nombre_pais2": "Venezuela",
+        "cod_pais2": "VEN",
+        "cod_moneda2": "VES",
+        "simbolo_moneda2": "Bs.",
+        "nombre_plural_moneda2": "Bolívares",
+        "monto2": 11,
+        "monto3": 1,
+        "user": {
+            "observ": "",
+            "login": "invitado"
+        },
+        "origen": {
+            "formapago": "BFAM",
+            "nombrebank": "Banco Familiar",
+            "nrocuenta": "81-108635",
+            "nombretitular": "Hilder Portal",
+            "doctitular": "8844430",
+            "comprobantePago": "",
+            "cant_comprobantes": 0,
+            "id_formapago": "11",
+            "tipocuenta": "A",
+            "tipocuenta_desc": "Caja de Ahorros",
+            "descripcion": "Banco Familiar Cuenta Ahorros # 81-108635 Hilder Portal C.I. 8844430"
+        },
+        "destino": {
+            "observ": ""
+        },
+        "tasa_origen": "7785.64",
+        "tasa_destino": "10.53",
+        "monto_dolares": 1,
+        "paso": 2
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668286444985
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

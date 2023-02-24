@@ -1,0 +1,39 @@
+_id: req_3b2d979a8d4b42ea8002db2b4dcfc788
+type: Request
+parentId: fld_3b19be06272146659cb104dc918ba805
+modified: 1677275258119
+created: 1668625792559
+url: https://naguarabit.com/app/api/transactions/attachment
+name: Registra Pago Destino
+description: ""
+method: POST
+body:
+  mimeType: multipart/form-data
+  params:
+    - id: pair_c95cab09b5464cf3952ba47e56d40f71
+      name: type
+      value: destiny
+      description: ""
+    - id: pair_bf5499b152fa44fea1346e9793a39e4c
+      name: transaccion_id
+      value: "4"
+      description: ""
+    - id: pair_1b8cd4206eb84e318c77aec4134ce0a4
+      name: file
+      value: ""
+      description: ""
+      type: file
+      fileName: C:\Users\USER DELL\Pictures\abraham.png
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+authentication: {}
+metaSortKey: -1668625792559
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

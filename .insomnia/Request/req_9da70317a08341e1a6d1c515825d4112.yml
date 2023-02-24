@@ -1,0 +1,21 @@
+_id: req_9da70317a08341e1a6d1c515825d4112
+type: Request
+parentId: wrk_7ca15425654e40a7b7a281ecce815559
+modified: 1677275268648
+created: 1668285574365
+url: https://naguarabit.com/app/api/public/api/transactions/rates
+name: Obtener Tasas
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668285574365
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
