@@ -1,0 +1,39 @@
+_id: req_d4ce7dcb3e5f4d43952e2b5e95149538
+type: Request
+parentId: fld_3b19be06272146659cb104dc918ba805
+modified: 1677365107070
+created: 1677365006294
+url: http://localhost:8000/api/transactions/attachment
+name: Enviar Comprobante
+description: ""
+method: POST
+body:
+  mimeType: multipart/form-data
+  params:
+    - id: pair_ae41dce254ab4edd91568cbb7b4cc249
+      name: transaccion_id
+      value: "546"
+      description: ""
+    - id: pair_fd83d42e224549b0847fcd465df0266d
+      name: file
+      value: ""
+      description: ""
+      type: file
+      fileName: C:\Users\USER DELL\Pictures\abraham.png
+    - id: pair_5ded721e5bec44fabb0dd42751b99530
+      name: type
+      value: destiny
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+authentication: {}
+metaSortKey: -1677365006294
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,7 +1,7 @@
 _id: req_9da70317a08341e1a6d1c515825d4112
 type: Request
-parentId: wrk_7ca15425654e40a7b7a281ecce815559
-modified: 1668285633507
+parentId: fld_3b19be06272146659cb104dc918ba805
+modified: 1677365138655
 created: 1668285574365
 url: http://localhost:8000/api/transactions/rates
 name: Obtener Tasas
@@ -11,7 +11,7 @@ body: {}
 parameters: []
 headers: []
 authentication: {}
-metaSortKey: -1668285574365
+metaSortKey: -1668456118772
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
