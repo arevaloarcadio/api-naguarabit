@@ -1,9 +1,9 @@
 _id: req_3b2d979a8d4b42ea8002db2b4dcfc788
 type: Request
 parentId: fld_3b19be06272146659cb104dc918ba805
-modified: 1668722769518
+modified: 1677364955270
 created: 1668625792559
-url: ""
+url: http://localhost:8000/api/transactions/destinationPayments
 name: Registra Pago Destino
 description: ""
 method: POST
@@ -57,7 +57,7 @@ body:
         "tasa_destino": "11.18",
         "monto_dolares": 1,
         "paso": 4,
-        "id_transaccion": 577
+        "id_transaccion": 546
     }
 parameters: []
 headers:
