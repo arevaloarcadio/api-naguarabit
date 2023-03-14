@@ -1,0 +1,21 @@
+_id: req_8413d68de8914ca38229c6e6e0621595
+type: Request
+parentId: fld_3b19be06272146659cb104dc918ba805
+modified: 1678810433936
+created: 1677366947420
+url: http://localhost:8000/api/transactions/files/546
+name: Consultar comprobante por id transsacion
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1677366947420
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
